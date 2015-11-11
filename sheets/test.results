@@ -1,8 +1,0 @@
---- FAIL: TestReadAllDoesNotError (0.68s)
-	assertions.go:150:                         	Location:	reader_test.go:17
-			Error:		Expected not to be nil.
-			Messages:	records should not be nil
-		
---- FAIL: TestReadAllRecordsAreCorrect (0.43s)
-exit status 2
-FAIL	github.com/jaredbangs/google-sheets/sheets	1.116s
